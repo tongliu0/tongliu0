@@ -1,6 +1,6 @@
 ## Hi, I'm Tong Liu 👋✨
 
-I am a multidiscinplinary **Resilience & AI Research Scientist** focused on advancing disaster adaptation and climate resilience by leveraging AI. I hold a Ph.D. in Civil Engineering (Transportation) and an M.S. in Computer Science with another M.L.A in Landscape Architecture. This background shapes how I think about infrastructure, environment and human behavior as interconnected systems rather than isolated individual components. I currently work at an engineering consulting company, where I develop AI- and data-driven decision-support tools for transportation and public-sector applications.
+I am a multidiscinplinary **Resilience & AI Research Scientist** focused on advancing disaster adaptation and climate resilience by leveraging AI. I hold a Ph.D. in Civil Engineering (Transportation), an M.S. in Computer Science and an M.L.A in Landscape Architecture. This background shapes how I think about infrastructure, environment and human behavior as interconnected systems rather than isolated individual components. I currently work at an engineering consulting company, where I develop AI- and data-driven decision-support tools for transportation and public-sector applications.
 
 ### 🎓 Research & Technical Focus
 - 👯 Human-centered disaster resilience and adaptation  
