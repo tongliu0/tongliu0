@@ -39,7 +39,7 @@ Scenario-based evaluation of urban tree-cover placement and projected land surfa
 
 ### Household adaptation behavior under disruptions
 Behavioral choice modeling and analysis under disruptive conditions (e.g., road closure, power outage).  
-![Behavior modeling figure](./assets/Fig4_household_adaptation.png)
+![Behavior modeling figure](./assets/Fig4_adaptation_behavior.png)
 
 
 <!--
