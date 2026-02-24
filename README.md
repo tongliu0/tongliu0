@@ -29,17 +29,17 @@ I am a multidisciplinary researcher working at the intersection of transportatio
 ---
 
 ## ✨ Research Highlights ✨
-### Urban spillover modeling
+### 🌆 Urban spillover modeling
 Physics-informed deep learning framework for quantifying nonlocal spillover effects in urban systems.  
-![Urban spillover modeling figure](./assets/Fig1_DRD_spillover.png)
+<img src="./assets/Fig1_DRD_spillover.png" alt="Urban spillover modeling figure" width="700"/>
 
-### Heat mitigation scenario evaluation
+### 🌳 Heat mitigation scenario evaluation
 Scenario-based evaluation of urban tree-cover placement and projected land surface temperature reduction.  
-![Heat mitigation scenario figure](./assets/Fig2_heat_mitigation.png)
+<img src="./assets/Fig2_heat_mitigation.png" alt="Heat mitigation scenario figure" width="350"/>
 
-### Household adaptation behavior under disruptions
+### 🚦 Adaptation and preparedness behavior under disruptions
 Behavioral choice modeling and analysis under disruptive conditions (e.g., road closure, power outage).  
-![Behavior modeling figure](./assets/Fig4_adaptation_behavior.png)
+<img src="./assets/Fig4_adaptation_behavior.png" alt="Behavioral choice modeling figure" width="650"/>
 
 
 <!--
