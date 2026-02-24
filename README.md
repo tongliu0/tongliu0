@@ -28,11 +28,18 @@ I am a multidisciplinary researcher working at the intersection of transportatio
 
 ---
 
-### ✨ About this GitHub ✨
-This GitHub hosts **selected research and applied machine learning projects** developed across academic research and real-world decision-support contexts.  
-Some repositories are exploratory or partially documented and are shared for transparency and reproducibility.
+## ✨ Research Highlights ✨
+### Urban spillover modeling
+Physics-informed deep learning framework for quantifying nonlocal spillover effects in urban systems.  
+![Urban spillover modeling figure](./assets/Fig1_DRD_spillover.png)
 
-For a curated overview, please see the **pinned repositories** below.
+### Heat mitigation scenario evaluation
+Scenario-based evaluation of urban tree-cover placement and projected land surface temperature reduction.  
+![Heat mitigation scenario figure](./assets/Fig2_heat_mitigation.png)
+
+### Household adaptation behavior under disruptions
+Behavioral choice modeling and analysis under disruptive conditions (e.g., road closure, power outage).  
+![Behavior modeling figure](./assets/Fig4_household_adaptation.png)
 
 
 <!--
