@@ -37,9 +37,9 @@ Physics-informed deep learning framework for quantifying nonlocal spillover effe
 Scenario-based evaluation of urban tree-cover placement and projected land surface temperature reduction.  
 <img src="./assets/Fig2_heat_mitigation.png" alt="Heat mitigation scenario figure" width="350"/>
 
-### 🚦 Adaptation and preparedness behavior under disruptions
+### 🚦 Adaptation, preparedness and evacuation behavior under infrastructure disruptions
 Behavioral choice modeling and analysis under disruptive conditions (e.g., road closure, power outage).  
-<img src="./assets/Fig4_adaptation_behavior.png" alt="Behavioral choice modeling figure" width="650"/>
+<img src="./assets/Fig4_adaptation_behavior.png" alt="Behavioral choice modeling figure" width="625"/>
 
 
 <!--
